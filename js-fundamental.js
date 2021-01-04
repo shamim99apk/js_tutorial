@@ -1,8 +1,8 @@
 /// setup => download vscode
-//    download nodejs
+//  || download nodejs
 //  || create a folder in mypc
 //  || in this folder create a file like fundamental.js
-//  || to run js go to terminal and type node (file name)
+//  || to run js go to vscode terminal and type node (file name) like node fundamental.js
 
 /// variable
 
